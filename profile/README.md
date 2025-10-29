@@ -30,7 +30,7 @@
 | Bot Architecture | COG System | Native |
 | API Framework | Sanic | Latest |
 | Dashboard | Modern Web Stack | - |
-| Database | Python ORM | SQLite/PostgreSQL |
+| Database | Python ORM | PostgreSQL |
 
 ---
 

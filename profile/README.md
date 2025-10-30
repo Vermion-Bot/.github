@@ -26,7 +26,7 @@
 
 | Component | Technology | Version |
 |-----------|-----------|---------|
-| Discord Bot | discord.py | Latest |
+| Discord Bot | discord.py | 3.12 |
 | Bot Architecture | COG System | Native |
 | API Framework | Sanic | Latest |
 | Dashboard | Modern Web Stack | - |

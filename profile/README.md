@@ -29,7 +29,7 @@
 | Discord Bot | discord.py | 3.12 |
 | Bot Architecture | COG System | Native |
 | API Framework | Sanic | Latest |
-| Dashboard | Modern Web Stack | - |
+| Dashboard | Modern Web Stack | HTML, CSS, JS |
 | Database | Python ORM | PostgreSQL |
 
 ---

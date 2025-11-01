@@ -59,6 +59,12 @@
 
 ---
 
+## Notes
+
+- Since we don't know any trustable frontend dev & designer who would work for us for free as a fun project, we use Claude AI to generate the dashboard frontend design. This helps us focus on the backend logic. Sorry if it's a bit weird or anything, but simply we don't really care about the design but we know, that a good design makes everything worth 10x more. So as long as we don't have anyone in the team as a designer & frontend we will have to use AI. Thanks for your understanding:)
+
+---
+
 ## 🤝 Contributing
 
 We love contributions! Here's how to help:

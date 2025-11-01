@@ -31,6 +31,7 @@
 | API Framework | Sanic | Latest |
 | Dashboard | Modern Web Stack | HTML, CSS, JS |
 | Database | Python ORM | PostgreSQL |
+| Authentication | Discord OAuth2 | 10.0 |
 
 ---
 
